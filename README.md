@@ -4,7 +4,10 @@ Repositorio principal del área de marketing de Inkua. Contiene lista de partici
 ## Participantes
 > Completar
 ## Departamentos
-> Completar
+> Marketing Tradicional 1
+> Marketing Tradicional 2
+> Marketing Tradicional 3
+> Marketing Digital & Community Manager 
 
 ## Manuales de procedimiento
 > Completar

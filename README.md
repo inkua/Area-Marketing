@@ -1,17 +1,14 @@
 # Marketing
-Repositorio principal del área de marketing de Inkua. Contiene lista de participantes, departamentos, manuales relevantes y procesos. 
+Repositorio principal del Área de Marketing de InkuA. Contiene lista de participantes, departamentos, manuales relevantes y procesos. 
 
-## Participantes
-> Completar
 ## Departamentos
 - Marketing Tradicional 1
 - Marketing Tradicional 2
 - Marketing Tradicional 3
 - Marketing Digital & Community Manager 
 
-## Manuales de procedimiento
+## Participantes por Departamento
 > Completar
 
-## Tareas pendientes
-- [ ] Tarea no realizada
-- [ ] Tarea nueva
+## Manuales de procedimiento
+> Completar

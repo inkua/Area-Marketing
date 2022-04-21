@@ -8,7 +8,7 @@ Repositorio principal del Área de Marketing de InkuA. Contiene lista de partici
 - Marketing Digital & Community Manager 
 
 ### Organizacion del Departamento de Marketing Tradicional
-A continuación detallare como esta conformado el departamento de Relaciones Públicas
+A continuación detallaré como está conformado el departamento de Marketing:
 | PUESTO | NOMBRE |
 | ------------- | ------------- |
 | Directora  | Clarisa Ishii  |
